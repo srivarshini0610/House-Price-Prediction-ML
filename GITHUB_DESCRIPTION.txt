@@ -1,0 +1,1 @@
+House Price Prediction is an end-to-end machine learning regression project built with Python, Scikit-learn and Streamlit. It compares multiple models, automatically selects the best-performing pipeline and provides an interactive interface for house price estimation.
