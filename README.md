@@ -270,25 +270,9 @@ images/result.png
 
 ---
 
-# 🤝 Contributing
 
-Contributions, suggestions, and improvements are always welcome.
 
-If you find this project useful, consider giving it a ⭐ on GitHub.
 
----
-
-# 👨‍💻 Author
-
-**Aniket Singh**
-
-Aspiring Data Analyst | Machine Learning Enthusiast | Python | SQL | Power BI
-
-**GitHub:** https://github.com/yourusername
-
-**LinkedIn:** https://linkedin.com/in/yourprofile
-
----
 
 ## ⭐ If you found this project helpful, don't forget to star the repository.
 
